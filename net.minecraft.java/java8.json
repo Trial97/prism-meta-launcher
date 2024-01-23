@@ -1,0 +1,120 @@
+{
+    "formatVersion": 1,
+    "name": "Java 8",
+    "releaseTime": "2020-11-17T19:28:39+00:00",
+    "runtimes": {
+        "linux-arm32": [],
+        "linux-arm64": [],
+        "linux-x64": [
+            {
+                "checksum": {
+                    "hash": "c529f68a6febc042e71835a579f44d55a3717c46",
+                    "type": "sha1"
+                },
+                "downloadType": "manifest",
+                "name": "jre-legacy",
+                "packageType": "jre",
+                "recommended": true,
+                "releaseTime": "2020-11-17T19:26:25+00:00",
+                "url": "https://piston-meta.mojang.com/v1/packages/c529f68a6febc042e71835a579f44d55a3717c46/manifest.json",
+                "vendor": "mojang",
+                "version": {
+                    "major": 8,
+                    "minor": 0,
+                    "name": "8u202",
+                    "security": 202
+                }
+            }
+        ],
+        "linux-x86": [
+            {
+                "checksum": {
+                    "hash": "6df5ff7142797f409ec41e0b94124e677927f8e2",
+                    "type": "sha1"
+                },
+                "downloadType": "manifest",
+                "name": "jre-legacy",
+                "packageType": "jre",
+                "recommended": true,
+                "releaseTime": "2020-11-17T19:28:39+00:00",
+                "url": "https://piston-meta.mojang.com/v1/packages/6df5ff7142797f409ec41e0b94124e677927f8e2/manifest.json",
+                "vendor": "mojang",
+                "version": {
+                    "major": 8,
+                    "minor": 0,
+                    "name": "8u202",
+                    "security": 202
+                }
+            }
+        ],
+        "mac-os-arm64": [],
+        "mac-os-x64": [
+            {
+                "checksum": {
+                    "hash": "501341ccea685ea22228e481a57a5f13b62e9a1b",
+                    "type": "sha1"
+                },
+                "downloadType": "manifest",
+                "name": "jre-legacy",
+                "packageType": "jre",
+                "recommended": true,
+                "releaseTime": "2020-11-17T19:06:44+00:00",
+                "url": "https://piston-meta.mojang.com/v1/packages/501341ccea685ea22228e481a57a5f13b62e9a1b/manifest.json",
+                "vendor": "mojang",
+                "version": {
+                    "major": 8,
+                    "minor": 0,
+                    "name": "8u74",
+                    "security": 74
+                }
+            }
+        ],
+        "mac-os-x86": [],
+        "windows-arm32": [],
+        "windows-arm64": [],
+        "windows-x64": [
+            {
+                "checksum": {
+                    "hash": "b857498975fe5c5df26a1faa2b2c8ae7b5d15656",
+                    "type": "sha1"
+                },
+                "downloadType": "manifest",
+                "name": "jre-legacy",
+                "packageType": "jre",
+                "recommended": true,
+                "releaseTime": "2020-11-17T19:12:13+00:00",
+                "url": "https://piston-meta.mojang.com/v1/packages/b857498975fe5c5df26a1faa2b2c8ae7b5d15656/manifest.json",
+                "vendor": "mojang",
+                "version": {
+                    "major": 8,
+                    "minor": 0,
+                    "name": "8u51",
+                    "security": 51
+                }
+            }
+        ],
+        "windows-x86": [
+            {
+                "checksum": {
+                    "hash": "ae4a64107cd5c9f57c5125ca2096bb4864d10f26",
+                    "type": "sha1"
+                },
+                "downloadType": "manifest",
+                "name": "jre-legacy",
+                "packageType": "jre",
+                "recommended": true,
+                "releaseTime": "2020-11-17T19:10:36+00:00",
+                "url": "https://piston-meta.mojang.com/v1/packages/ae4a64107cd5c9f57c5125ca2096bb4864d10f26/manifest.json",
+                "vendor": "mojang",
+                "version": {
+                    "major": 8,
+                    "minor": 0,
+                    "name": "8u51",
+                    "security": 51
+                }
+            }
+        ]
+    },
+    "uid": "net.minecraft.java",
+    "version": "java8"
+}

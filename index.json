@@ -1,0 +1,55 @@
+{
+    "formatVersion": 1,
+    "packages": [
+        {
+            "name": "LiteLoader",
+            "sha256": "08d3f0e3e447d16d0ab25fcd483674de41a74b117d49d27e5f14fdeea25c8811",
+            "uid": "com.mumfrey.liteloader"
+        },
+        {
+            "name": "Fabric Loader",
+            "sha256": "ae290ad7175e0c4e5d794978d36e399911451242c89606954d1813f8eb375523",
+            "uid": "net.fabricmc.fabric-loader"
+        },
+        {
+            "name": "Intermediary Mappings",
+            "sha256": "fa53ce8f6527ec8c04c8b312095436cd080278615d724aed94d5921b3f58c053",
+            "uid": "net.fabricmc.intermediary"
+        },
+        {
+            "name": "Minecraft",
+            "sha256": "d0c4a938a464efe75568f0c735c170885dbded82b127d8d643c6b2a2ac94ccaa",
+            "uid": "net.minecraft"
+        },
+        {
+            "name": "Java Runtimes",
+            "sha256": "54a06d1f8d8fb5e454b469bd59f36c08377a904ffdbd77aa3e832888e4522dc4",
+            "uid": "net.minecraft.java"
+        },
+        {
+            "name": "Forge",
+            "sha256": "4c908ea4c916190d2fc150e2866688e88db1e1126242be2a09459da3c37f864e",
+            "uid": "net.minecraftforge"
+        },
+        {
+            "name": "NeoForge",
+            "sha256": "2290a06a668ca049313796512f38ebe7aaa91af54c4f2ae7d629f83236306882",
+            "uid": "net.neoforged"
+        },
+        {
+            "name": "LWJGL 2",
+            "sha256": "d29c0b8bbeb09261a54a13938ae0f9ccc6a07e9c8eb69986425f8a1f00d13b3d",
+            "uid": "org.lwjgl"
+        },
+        {
+            "name": "LWJGL 3",
+            "sha256": "10d570537806a699585711e1d847dcf860c295e92eaaf8ac3fe7a5e3e9033266",
+            "uid": "org.lwjgl3"
+        },
+        {
+            "name": "Quilt Loader",
+            "sha256": "4cd9cef3274f65bc2a1e2bc639e590ebc6de0946a083bac93a65c49f6178b37a",
+            "uid": "org.quiltmc.quilt-loader"
+        }
+    ]
+}
