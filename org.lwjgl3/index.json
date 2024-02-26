@@ -10,8 +10,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2024-01-18T12:42:37+00:00",
-            "sha256": "59557162e170ac4bb6e70b0fea5eee8cd0366fd79f2594c51a79a8897ce66fe8",
+            "releaseTime": "2024-01-24T13:42:45+00:00",
+            "sha256": "049011fd97b96aec155726d3904d4e7897425aedbc5c8d3b3b6e6f8b7222004d",
             "type": "release",
             "version": "3.3.2",
             "volatile": true

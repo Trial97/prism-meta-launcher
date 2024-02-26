@@ -1,0 +1,1909 @@
+{
+    "formatVersion": 1,
+    "name": "Java 18",
+    "releaseTime": "2022-08-26T15:50:57+00:00",
+    "runtimes": {
+        "linux-arm32": [
+            {
+                "checksum": {
+                    "hash": "0ae7281fa883de0d39a75b39bfbbcec1d2a5f8ed8691af12226962ce1a761cd7",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.2+1",
+                "packageType": "jre",
+                "recommended": true,
+                "releaseTime": "2022-08-26T15:50:57+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_arm_linux_hotspot_18.0.2.1_1.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "bec2d075e81e4732835f71b7ea5c91b4a42e7b7d38b99ab845f76b421cc0b00e",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.2+9",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-07-22T20:28:46+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_arm_linux_hotspot_18.0.2_9.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 9,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "24ec0eb692e30c7055cc863e4f47aa9cec2c069849f09b227adb14c87a70e8e7",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.1+10",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-04-22T15:09:06+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_arm_linux_hotspot_18.0.1_10.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 10,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "4cd49b92d13847bfad7b3bf635cca349e2c89c7641748c5288bc40d612cdbbd6",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.2+1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-08-26T15:50:57+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jdk_arm_linux_hotspot_18.0.2.1_1.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "52ec0ddee9ff16397de2c9f614ff6b5464220bd5c3d705e8b89d28fd478feb60",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.2+9",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-07-22T20:28:46+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_arm_linux_hotspot_18.0.2_9.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 9,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "0ddec3c165ab0b662a57a845db3fdaeb840660b493f164696b03df76aadf61c8",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.1+10",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-04-22T15:09:06+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jdk_arm_linux_hotspot_18.0.1_10.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 10,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "4cb2e1fe9a14a990ad0dc8f3afcd9c1b37a8d7750754c3a1e72665ef6beb300f",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.0+36",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-24T15:56:28+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18%2B36/OpenJDK18U-jdk_arm_linux_hotspot_18_36.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 36,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            }
+        ],
+        "linux-arm64": [
+            {
+                "checksum": {
+                    "hash": "e11e00438c2f6f79f86ff1ca2b015913b0e16bd9491953a082d5c786402cb50a",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.2+1",
+                "packageType": "jre",
+                "recommended": true,
+                "releaseTime": "2022-08-26T15:50:57+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.2.1_1.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "b95934d11105c5a99a8bf087fdfc28a8a644b4265b6cf7518d70404a4dc82da2",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.2+9",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-07-22T20:28:46+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.2_9.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 9,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "cacb261967585ccd3eefe9a44f277b23aaa0b60772589ac220f03941c2bcdad1",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.1+10",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-04-22T15:09:06+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.1_10.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 10,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "262be608e266fd76d7496af83b2832be853c3aaf7460d6a4da198cd40db74553",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.2+1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-08-26T15:50:57+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jdk_aarch64_linux_hotspot_18.0.2.1_1.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "f4aca720bfcea4df7f02b59de1f68648632070c492f210b9e41e69170ee5e48f",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.2+9",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-07-22T20:28:46+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_aarch64_linux_hotspot_18.0.2_9.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 9,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "37ceaf232a85cce46bcccfd71839854e8b14bf3160e7ef72a676b9cae45ee8af",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.1+10",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-04-22T15:09:06+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jdk_aarch64_linux_hotspot_18.0.1_10.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 10,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "e696d2b5995ae008b6ee7392d73ace13c36460a5e9600740c40e094079a62d28",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.0+36",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-24T15:56:28+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18%2B36/OpenJDK18U-jdk_aarch64_linux_hotspot_18_36.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 36,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            }
+        ],
+        "linux-x64": [
+            {
+                "checksum": {
+                    "hash": "74f602ab5abaa554859a5e92a65e5bb6e23c2d4165228299c7f54ed56dbc5959",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.2+1",
+                "packageType": "jre",
+                "recommended": true,
+                "releaseTime": "2022-08-26T15:50:57+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_linux_hotspot_18.0.2.1_1.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "efcfe9206ce467a0a197463283e74621f4ba037994d29606c572766945a01a91",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.2+9",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-07-22T20:28:46+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_linux_hotspot_18.0.2_9.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 9,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "67c2cea6040b12c125bb1bea74b3eeb42c94072713b152b720e50c897b946ffa",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.1+10",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-04-22T15:09:06+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_linux_hotspot_18.0.1_10.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 10,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "7d6beba8cfc0a8347f278f7414351191a95a707d46b6586e9a786f2669af0f8b",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.2+1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-08-26T15:50:57+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jdk_x64_linux_hotspot_18.0.2.1_1.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "5e5dbf6f1308829528778e00631ec83e252d90fc444503091e71a66465e88941",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.2+9",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-07-22T20:28:46+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_x64_linux_hotspot_18.0.2_9.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 9,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "16b1d9d75f22c157af04a1fd9c664324c7f4b5163c022b382a2f2e8897c1b0a2",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.1+10",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-04-22T15:09:06+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jdk_x64_linux_hotspot_18.0.1_10.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 10,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "82d67983f92f16b5fb57176fa4c228e44ecc6f671b3c3523140fba7fb904dceb",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.0+36",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-24T15:56:28+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18%2B36/OpenJDK18U-jdk_x64_linux_hotspot_18_36.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 36,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "0672a7465ff0a4c5c131d02fae8467713fdcbb4ba59ee61a3994907624b6bef2",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.2+1",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-08-23T15:37:38+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jre18.0.2.1-linux_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "2ceeff1e6b9ef5599eeda9a7878e61a5b84de926178be6b43609ef4ac3c0ebab",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.2+1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-08-23T15:37:38+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jdk18.0.2.1-linux_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "64d5fe737b7760eeff9e5eba89c7e5c87ceb012f16664ba0d361849266c83819",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.2",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-06-23T17:39:34+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.11-ca-jre18.0.2-linux_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "7a296685ea6908f9a7cb789d508b1b08dcb0af94e174542c7d15ba1eefed5b22",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.2",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-06-23T17:39:34+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.11-ca-jdk18.0.2-linux_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "37c9a3054b3985efaf09cc0b9608f5b69b9a7ac9a4ee3096e8176df64ece4c98",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.1",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-03-29T14:53:22+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.30.11-ca-jre18.0.1-linux_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "e5bc0ea3dd336beaaeec7ef5ba8c01a820292ec880876b05f62907ccf1a032e4",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-29T14:53:22+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.30.11-ca-jdk18.0.1-linux_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "1167a56ac1c52530293bbd0e786602e3b4392e636a5ceca31713fdc0164f0735",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.0",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-03-15T11:41:35+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.28.13-ca-jre18.0.0-linux_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "2ca1e6100ebe08931af6dc127d5a303c164379f42532603c803f205f9517b1e1",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.0",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-15T11:41:35+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.28.13-ca-jdk18.0.0-linux_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            }
+        ],
+        "linux-x86": [
+            {
+                "checksum": {
+                    "hash": "94166151439a3bdd35f38f8c85c0daefe5b415ce55775086f9a3f160db649804",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.2+1",
+                "packageType": "jre",
+                "recommended": true,
+                "releaseTime": "2022-08-23T15:37:38+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jre18.0.2.1-linux_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "fe0cd0e9fddd446926c85577fd7f2cde83b5c9101c2243577cf3876c10550a19",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.2+1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-08-23T15:37:38+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jdk18.0.2.1-linux_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "cb7f8c14c98a11d3ee239499d769b3fb90e4f52f470d39bfafa5fb9b93157a65",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.2",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-06-23T17:39:34+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.11-ca-jre18.0.2-linux_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "27eb5041fe74e17d43dc5fa9bf30ef9c15745dad47d28fc789bad7e2e1119210",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.2",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-06-23T17:39:34+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.11-ca-jdk18.0.2-linux_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "fd70315a097446258ce28f8a6432538907d89145d08cb2b39ebae7f84f06b045",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.1",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-03-29T14:53:22+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.30.11-ca-jre18.0.1-linux_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "12bf374f1e2c8297d815852ca92fc50b4ead1754b0c5d3a4057c9cffc4c60c72",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-29T14:53:22+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.30.11-ca-jdk18.0.1-linux_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "94812b0d60482c74db84e4465504c045ba4dd961156eecbcc011d54abebe57c4",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.0",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-03-15T11:41:35+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.28.13-ca-jre18.0.0-linux_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "1d64f461a40b5044e1a17072b676af43904c6f998c6de94d3d5bc0a61f8a2257",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.0",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-15T11:41:35+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.28.13-ca-jdk18.0.0-linux_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            }
+        ],
+        "mac-os-arm64": [
+            {
+                "checksum": {
+                    "hash": "071f073efb9550838bc02e429ef972f9450b477360f803dd1cf19096ca41182e",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.2+1",
+                "packageType": "jre",
+                "recommended": true,
+                "releaseTime": "2022-08-26T15:50:57+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2.1_1.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "30b71a4a963688fbe3baee7dab133b62fa6e85753e238ff5313b1b7d10f878d9",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.2+9",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-07-22T20:28:46+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2_9.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 9,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "48ccacbd585bc7a3fb750886476ca061886e6b25b2bff1714d5cc72a0923febd",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.1+10",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-04-22T15:09:06+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.1_10.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 10,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "c5ec423f52d8f3aa632941f29fd289f2e31dce5fe6f3abed9b72bd374f54cd41",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.2+1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-08-26T15:50:57+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jdk_aarch64_mac_hotspot_18.0.2.1_1.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "d84ec85a9e6b5e22f6bac7e96cc764f5369da393ab233149bfbcbacf1e7de9b7",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.2+9",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-07-22T20:28:46+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_aarch64_mac_hotspot_18.0.2_9.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 9,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "4f459195df89e52bbadfb5b7ab8a95030b08fcd84b7e0017eceed00f05ec0458",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.1+10",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-04-22T15:09:06+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jdk_aarch64_mac_hotspot_18.0.1_10.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 10,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "ac0beb8843f4bc360656ad828fdc9b06937a2ea67cb4d5ef6e3c37c09f5501d4",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.0+36",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-24T15:56:28+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18%2B36/OpenJDK18U-jdk_aarch64_mac_hotspot_18_36.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 36,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "36830817a445c7c77820bd5a18840d9b492309edd53e42a32c2e4c5f4bb9a09f",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.2+1",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-08-23T15:37:38+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jre18.0.2.1-macosx_aarch64.zip",
+                "vendor": "azul",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "887f0d249ec3067e3ad0f8e7cbe2be86efbb7bfa8b04357d0d47cf114cb260e3",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.2+1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-08-23T15:37:38+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jdk18.0.2.1-macosx_aarch64.zip",
+                "vendor": "azul",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "7179c1d641866543cd93dfc3756c9423aed60f7a737b0b164844d34f1d9b7125",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.2",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-06-23T17:39:34+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.11-ca-jre18.0.2-macosx_aarch64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "1864c327cdfc3950e579bc424defacbddc1b8cec1f448b4a1a6dcc803f7cd552",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.2",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-06-23T17:39:34+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.11-ca-jdk18.0.2-macosx_aarch64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "fcf4b2d40d85c6cb2b3711a00d26fc9f35f07c7ba5da2822185944ee6f0b3e50",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.1",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-03-29T14:53:22+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.30.11-ca-jre18.0.1-macosx_aarch64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "6076afe030a7920e07f312a8b7fb8a291acc0b6a274db71985df14d2dbfbbb7c",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-29T14:53:22+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.30.11-ca-jdk18.0.1-macosx_aarch64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "405618995958fa81ea6755664734598fe9eeb9c4b6955439afc5a0eff183144e",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.0",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-03-15T11:41:35+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.28.13-ca-jre18.0.0-macosx_aarch64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "b60e6fc35a032270376f439a8e5aef439f154a2927e169fa3965e8e3125c33d9",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.0",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-15T11:41:35+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.28.13-ca-jdk18.0.0-macosx_aarch64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            }
+        ],
+        "mac-os-x64": [
+            {
+                "checksum": {
+                    "hash": "3629e3dc9dbab7ed13070fbea3a827030acdd62afa557496e88a6d01f9300474",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.2+1",
+                "packageType": "jre",
+                "recommended": true,
+                "releaseTime": "2022-08-26T15:50:57+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_mac_hotspot_18.0.2.1_1.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "03e03b396cf1b5342aa9fa4d5caf7d7680baf8ba1478c2c1f4517affc827c309",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.2+9",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-07-22T20:28:46+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_mac_hotspot_18.0.2_9.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 9,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "77586251f1b8987c9a332a8da4e228c09922f586c0946f12ed980462e46b951b",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.1+10",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-04-22T15:09:06+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_mac_hotspot_18.0.1_10.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 10,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "2ed916b0c9d197a6bf71b76e84d94125023c2609e0a9b22c64553eff5c9c29c1",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.2+1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-08-26T15:50:57+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jdk_x64_mac_hotspot_18.0.2.1_1.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "f96196e9eddad09544733af46d33ac5d5a44178316248e0b907c7f6cd4955bcb",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.2+9",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-07-22T20:28:46+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_x64_mac_hotspot_18.0.2_9.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 9,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "fedb5e61de3ecd1e128fbb0378b2467498cbe731366fb089b2a495cbb7e34e73",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.1+10",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-04-22T15:09:06+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jdk_x64_mac_hotspot_18.0.1_10.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 10,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "cdef36a561d7550fb505a9c36fedf363af16a5984c92e74f5abaa25172c12537",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.0+36",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-24T15:56:28+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18%2B36/OpenJDK18U-jdk_x64_mac_hotspot_18_36.tar.gz",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 36,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "4710e11efdac58dadcfbff518354f72a4e53c7905ebaf877666118cfff473643",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.2+1",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-08-23T15:37:38+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jre18.0.2.1-macosx_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "ba11193063dd51a6669d0862dfcac24c214063f4e5811d2c6340759c2efb5392",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.2+1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-08-23T15:37:38+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jdk18.0.2.1-macosx_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "65a9e1c174b7e09f554eba344588b5d4d4287f7755044f0239e15357879f10dc",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.2",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-06-23T17:39:34+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.11-ca-jre18.0.2-macosx_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "d6f92a008cbf3dbc9da5f37713292b1fd444f28735926342b1f52fc56f73f4e2",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.2",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-06-23T17:39:34+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.11-ca-jdk18.0.2-macosx_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "71339eca976800b21f641fa98d0683ff5fa6a35b6c6bcace1e4cea5badbe2256",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.1",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-03-29T14:53:22+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.30.11-ca-jre18.0.1-macosx_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "12ebba773b949f419e1ee2e32ff0ce0dc6ef58da9fcfc16748d03125c2061e77",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-29T14:53:22+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.30.11-ca-jdk18.0.1-macosx_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "61b6cb0ad71bf0a7d681ca14cfea904837d0ed72d0fb95c1cd1a6ba251854cae",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.0",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-03-15T11:41:35+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.28.13-ca-jre18.0.0-macosx_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "cc3630cb1b99e6a3b1b5c7b72269206cffa7d718c412ad37cd4ac9a323faa57b",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.0",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-15T11:41:35+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.28.13-ca-jdk18.0.0-macosx_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            }
+        ],
+        "mac-os-x86": [],
+        "windows-arm32": [],
+        "windows-arm64": [
+            {
+                "checksum": {
+                    "hash": "2e47bbc5b6a806b37c04bdc5a75f614fb16c71174e4c8d59c00044b9dc46b10b",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.2+1",
+                "packageType": "jdk",
+                "recommended": true,
+                "releaseTime": "2022-08-23T15:37:38+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jdk18.0.2.1-win_aarch64.zip",
+                "vendor": "azul",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "33226f02e741f8361e640047f09a907fb09602df8cf0478aab0d5fb4254eb333",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.2",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-06-23T17:39:34+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.11-ca-jdk18.0.2-win_aarch64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "b85c1542472e68a35d566ffc5dce511138e5fcd658bec56ad263175532bf6d47",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-29T14:53:22+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.30.11-ca-jdk18.0.1-win_aarch64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "9b52b259516e4140ee56b91f77750667bffbc543e78ad8c39082449d4c377b54",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.0",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-15T11:41:35+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.28.13-ca-jdk18.0.0-win_aarch64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            }
+        ],
+        "windows-x64": [
+            {
+                "checksum": {
+                    "hash": "ba7976e86e9a7e27542c7cf9d5081235e603a9be368b6cbd49673b417da544b1",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.2+1",
+                "packageType": "jre",
+                "recommended": true,
+                "releaseTime": "2022-08-26T15:50:57+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_windows_hotspot_18.0.2.1_1.zip",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "ef3794f25a02b513416c37bf4087c37a6c57a504b19820a8fa4f80d7651a27f9",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.2+9",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-07-22T20:28:46+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.zip",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 9,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "6e6aa724c04ecd22ce60717c496710ff4745195660becb307a94093cf01f7d2f",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.1+10",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-04-22T15:09:06+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_windows_hotspot_18.0.1_10.zip",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 10,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "0846e98eaecc62aeba57bc1a522048fe3517177e36654f5d727abf8ce174c9b7",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.2+1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-08-26T15:50:57+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jdk_x64_windows_hotspot_18.0.2.1_1.zip",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "09cfeba06d41637afaf29a92964d61e9a2c98fe70a10e5648846104c8714ff75",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.2+9",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-07-22T20:28:46+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_x64_windows_hotspot_18.0.2_9.zip",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 9,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "58839a0c28e5d254001993f4e5333e5bb237d082871650687891b4de773d0fb0",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.1+10",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-04-22T15:09:06+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jdk_x64_windows_hotspot_18.0.1_10.zip",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 10,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "7c5efffb555ee8d34a730dfe19654b971b1c82babb9d9b243b29480a8ab7351a",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.0+36",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-24T15:56:28+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18%2B36/OpenJDK18U-jdk_x64_windows_hotspot_18_36.zip",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 36,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "2eaac888058b08453ea7b8dc5e2e9203b6802c5b1347e37972859529ff7c77bf",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.2+1",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-08-23T15:37:38+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jre18.0.2.1-win_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "384b0379ee0ca09da8e9d6728b2b8d6770c52da21da7106bf613f8f8bd80bf94",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.2+1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-08-23T15:37:38+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jdk18.0.2.1-win_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "906ccfa23da1c71d6bd252acbaed9a7452f31d86900428f1cdf0d2ee6c05aeda",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.2",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-06-23T17:39:34+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.11-ca-jre18.0.2-win_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "664b32c9365874870fc40d4b6e89bde2bd2dc896b8e2cf440824e61118ea6d6e",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.2",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-06-23T17:39:34+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.11-ca-jdk18.0.2-win_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "a04be440240afd0a7c8080d556565980cec0b0c98f074a9b18f3e7d3e2f89b3b",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.1",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-03-29T14:53:22+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.30.11-ca-jre18.0.1-win_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "1e3423c78c6d31798f403b507ab3c7e0504e0ddc8613463de2d3c1a828371147",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-29T14:53:22+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.30.11-ca-jdk18.0.1-win_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "ac1a2503959887a097bf1099bdab09c2feca6e63d6a091b6860ae6352b0bec78",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.0",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-03-15T11:41:35+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.28.13-ca-jre18.0.0-win_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "6c75498163b047595386fdb909cb6d4e04282c3a81799743c5e1f9316391fe16",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.0",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-15T11:41:35+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.28.13-ca-jdk18.0.0-win_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            }
+        ],
+        "windows-x86": [
+            {
+                "checksum": {
+                    "hash": "30a61d2f44633b3acdd9840720a686b657ec5704a4f96e399e7794ea5421952e",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.2+1",
+                "packageType": "jre",
+                "recommended": true,
+                "releaseTime": "2022-08-26T15:50:57+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2.1_1.zip",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "053d1df0ec134d23c0fccaf5b2dbcaeac3ea59f05ca4fc12898de617086e0f53",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.2+9",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-07-22T20:28:46+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2_9.zip",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 9,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "aba055687482af36865b19a0073d3ef471273e6c39f808f3c5517e4ff1b9fea0",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jre18.0.1+10",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-04-22T15:09:06+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.1_10.zip",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 10,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "2b3dfe42fe94946d2eced5da9354ae093de06c28797924e9597da37969cc5861",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.2+1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-08-26T15:50:57+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jdk_x86-32_windows_hotspot_18.0.2.1_1.zip",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "fbaa6fdbf4b6878682282337f55f8487c8198b8e4599ab60ed0c5ec88e626627",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.2+9",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-07-22T20:28:46+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_x86-32_windows_hotspot_18.0.2_9.zip",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 9,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "6f098422d2fc1058de71dafe24ed039b50e0a6f3e918dda89be4c710cc7fbd98",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.1+10",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-04-22T15:09:06+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jdk_x86-32_windows_hotspot_18.0.1_10.zip",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 10,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "8985da943f0977b41143f9ff56580d19f44a1a6e6c7340a406e77f4757358aa7",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "eclipse_temurin_jdk18.0.0+36",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-24T15:56:28+00:00",
+                "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18%2B36/OpenJDK18U-jdk_x86-32_windows_hotspot_18_36.zip",
+                "vendor": "eclipse",
+                "version": {
+                    "build": 36,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "52619f5183b7fbd7af73737ff43496736e4b6d1e38c75277a667f480b922b7eb",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.2+1",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-08-23T15:37:38+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jre18.0.2.1-win_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "83cbd1122899c98892956c4ec667a21ca1bc6b5b1ef625ec76799a6409d3237f",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.2+1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-08-23T15:37:38+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jdk18.0.2.1-win_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "build": 1,
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "ccdb398333ade4b160e07b0af4883a3bd236527010a926a42c34976043bee14b",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.2",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-06-23T17:39:34+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.11-ca-jre18.0.2-win_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "38640c37ae9e8b2d66e596a2e082337d6d48688b25591e7b86db9f4c0b967465",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.2",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-06-23T17:39:34+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.32.11-ca-jdk18.0.2-win_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "94755cefa4a6255704345f40502be6b8273d3da7fe7f95c8a52c71e564aede10",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.1",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-03-29T14:53:22+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.30.11-ca-jre18.0.1-win_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "3ff238bd87cc0296d4cd3bd3c769381d9bad59b9ccf4f5d122fab064aa8a1178",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-29T14:53:22+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.30.11-ca-jdk18.0.1-win_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "20a9f6726bc0cd1f84bb8dd179a7ffd5512e890282f91d6ccd70b6f92ebb872b",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jre18.0.0",
+                "packageType": "jre",
+                "recommended": false,
+                "releaseTime": "2022-03-15T11:41:35+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.28.13-ca-jre18.0.0-win_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "ded98b94ba539553083c62f10c31f6a05957f33b12f2ce8741be19bf66e68069",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk18.0.0",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2022-03-15T11:41:35+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu18.28.13-ca-jdk18.0.0-win_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 18,
+                    "minor": 0,
+                    "security": 0
+                }
+            }
+        ]
+    },
+    "uid": "net.minecraft.java",
+    "version": "java18"
+}

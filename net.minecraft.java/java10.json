@@ -1,0 +1,204 @@
+{
+    "formatVersion": 1,
+    "name": "Java 10",
+    "releaseTime": "2018-07-26T11:15:00+00:00",
+    "runtimes": {
+        "linux-arm32": [],
+        "linux-arm64": [],
+        "linux-x64": [],
+        "linux-x86": [
+            {
+                "checksum": {
+                    "hash": "7abe39d3915aeb184caf25a4390a737f06f7dc213bac55a0f43b586a29c72589",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk10.0.0",
+                "packageType": "jdk",
+                "recommended": true,
+                "releaseTime": "2018-03-15T15:08:00+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu10.1.11-ca-jdk10.0.0-linux_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 10,
+                    "minor": 0,
+                    "security": 0
+                }
+            }
+        ],
+        "mac-os-arm64": [],
+        "mac-os-x64": [
+            {
+                "checksum": {
+                    "hash": "ffeada0b80d51f1d18a703926538c2f9e1cfe1f51f968a726b866387ac74fd16",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk10.0.2",
+                "packageType": "jdk",
+                "recommended": true,
+                "releaseTime": "2018-07-26T11:15:00+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu10.3.5-ca-jdk10.0.2-macosx_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 10,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "5da55d61a7d6a5fef2dd272aff5545b649e1ab22f585d4684fca11b28b520706",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk10.0.1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2018-04-25T16:05:00+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu10.2.3-ca-jdk10.0.1-macosx_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 10,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "7e1cb6045a3154fe4fa857a33b4ffe86e60f6d09af8621e3f9cf6c6b4658b1b0",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk10.0.0",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2018-03-15T14:27:00+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu10.1.11-ca-jdk10.0.0-macosx_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 10,
+                    "minor": 0,
+                    "security": 0
+                }
+            }
+        ],
+        "mac-os-x86": [],
+        "windows-arm32": [],
+        "windows-arm64": [],
+        "windows-x64": [
+            {
+                "checksum": {
+                    "hash": "622cf9db19fd505442541baacb1c59a08e6868007387eccfeabeb8a0b21d8621",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk10.0.2",
+                "packageType": "jdk",
+                "recommended": true,
+                "releaseTime": "2018-07-26T11:15:00+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu10.3.5-ca-jdk10.0.2-win_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 10,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "fd9456b53dab8b9f504ed0f0e2f6305bd0815978d0e02a41643d111290bf940c",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk10.0.1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2018-04-25T16:49:00+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu10.2+3-jdk10.0.1-win_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 10,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "4ab5684fc1cb63c1b3e17886e39c8e3814280fba2583374f26e2116462dc3543",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk10.0.0",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2018-03-21T15:05:00+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu10.1.11-ca-jdk10.0.0-win_x64.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 10,
+                    "minor": 0,
+                    "security": 0
+                }
+            }
+        ],
+        "windows-x86": [
+            {
+                "checksum": {
+                    "hash": "e4a9fe347798ea4b41db77073e5cfa2628d011862005380d4a5111a1425f740e",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk10.0.2",
+                "packageType": "jdk",
+                "recommended": true,
+                "releaseTime": "2018-07-26T11:15:00+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu10.3.5-ca-jdk10.0.2-win_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 10,
+                    "minor": 0,
+                    "security": 2
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "9230a5df6b7e2f4800333522426e4d2739cf86aac6338181134bc9541a40f4a6",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk10.0.1",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2018-04-25T16:49:00+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu10.2.3-ca-jdk10.0.1-win_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 10,
+                    "minor": 0,
+                    "security": 1
+                }
+            },
+            {
+                "checksum": {
+                    "hash": "77b0cd37a0aff054e833994b263745d963a6f034dff073bfa162f0f29c87bc0a",
+                    "type": "sha256"
+                },
+                "downloadType": "archive",
+                "name": "azul_zulu_jdk10.0.0",
+                "packageType": "jdk",
+                "recommended": false,
+                "releaseTime": "2018-03-21T15:05:00+00:00",
+                "url": "https://cdn.azul.com/zulu/bin/zulu10.1+11-jdk10.0.0-win_i686.zip",
+                "vendor": "azul",
+                "version": {
+                    "major": 10,
+                    "minor": 0,
+                    "security": 0
+                }
+            }
+        ]
+    },
+    "uid": "net.minecraft.java",
+    "version": "java10"
+}
