@@ -314,8 +314,8 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "be937d05eb8c3030c9f02d27b3c835d792dc18e6",
-                    "size": 6884526,
+                    "sha1": "4f1cf43328794f5a068fc5c46b2f25247fcb6dbe",
+                    "size": 6951651,
                     "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.63/forge-1.19.2-43.1.63-installer.jar"
                 }
             },
