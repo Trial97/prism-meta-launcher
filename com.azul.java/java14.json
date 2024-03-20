@@ -23,24 +23,6 @@
         },
         {
             "checksum": {
-                "hash": "c43cc544758c041234146791d52f340bf19ec6186529c625d685f766b716c9be",
-                "type": "sha256"
-            },
-            "downloadType": "archive",
-            "name": "azul_zulu_jdk14.0.2",
-            "packageType": "jdk",
-            "releaseTime": "2020-07-11T02:03:53+00:00",
-            "runtimeOS": "windows-x86",
-            "url": "https://cdn.azul.com/zulu/bin/zulu14.29.23-ca-jdk14.0.2-win_i686.zip",
-            "vendor": "azul",
-            "version": {
-                "major": 14,
-                "minor": 0,
-                "security": 2
-            }
-        },
-        {
-            "checksum": {
                 "hash": "3b70ff0127dc3471cc542a3dc6a66036d64d2abf3b2a28637934f708f4cc308c",
                 "type": "sha256"
             },
@@ -50,42 +32,6 @@
             "releaseTime": "2020-07-11T02:03:53+00:00",
             "runtimeOS": "windows-x64",
             "url": "https://cdn.azul.com/zulu/bin/zulu14.29.23-ca-jre14.0.2-win_x64.zip",
-            "vendor": "azul",
-            "version": {
-                "major": 14,
-                "minor": 0,
-                "security": 2
-            }
-        },
-        {
-            "checksum": {
-                "hash": "281114bf5fb884f17f04ea2390e3e686535091a4922c59d2eb2b83fb0eec2e45",
-                "type": "sha256"
-            },
-            "downloadType": "archive",
-            "name": "azul_zulu_jdk14.0.2",
-            "packageType": "jdk",
-            "releaseTime": "2020-07-11T02:03:53+00:00",
-            "runtimeOS": "windows-x64",
-            "url": "https://cdn.azul.com/zulu/bin/zulu14.29.23-ca-jdk14.0.2-win_x64.zip",
-            "vendor": "azul",
-            "version": {
-                "major": 14,
-                "minor": 0,
-                "security": 2
-            }
-        },
-        {
-            "checksum": {
-                "hash": "57e737d639a6927c82626fd18257751e6bb4d64e291b8fac62ddad01255a1d77",
-                "type": "sha256"
-            },
-            "downloadType": "archive",
-            "name": "azul_zulu_jdk14.0.2",
-            "packageType": "jdk",
-            "releaseTime": "2020-07-11T02:03:53+00:00",
-            "runtimeOS": "mac-os-x64",
-            "url": "https://cdn.azul.com/zulu/bin/zulu14.29.23-ca-jdk14.0.2-macosx_x64.zip",
             "vendor": "azul",
             "version": {
                 "major": 14,
@@ -145,114 +91,6 @@
                 "major": 14,
                 "minor": 0,
                 "security": 1
-            }
-        },
-        {
-            "checksum": {
-                "hash": "264930f820d1012d1678f217fd61bafbc4c6b88608f6d8f24cbbca69cc68603c",
-                "type": "sha256"
-            },
-            "downloadType": "archive",
-            "name": "azul_zulu_jdk14.0.1",
-            "packageType": "jdk",
-            "releaseTime": "2020-04-15T10:57:00+00:00",
-            "runtimeOS": "mac-os-x64",
-            "url": "https://cdn.azul.com/zulu/bin/zulu14.28.21-ca-jdk14.0.1-macosx_x64.zip",
-            "vendor": "azul",
-            "version": {
-                "major": 14,
-                "minor": 0,
-                "security": 1
-            }
-        },
-        {
-            "checksum": {
-                "hash": "9cb078b5026a900d61239c866161f0d9558ec759aa15c5b4c7e905370e868284",
-                "type": "sha256"
-            },
-            "downloadType": "archive",
-            "name": "azul_zulu_jdk14.0.1",
-            "packageType": "jdk",
-            "releaseTime": "2020-04-13T22:23:00+00:00",
-            "runtimeOS": "windows-x64",
-            "url": "https://cdn.azul.com/zulu/bin/zulu14.28.21-ca-jdk14.0.1-win_x64.zip",
-            "vendor": "azul",
-            "version": {
-                "major": 14,
-                "minor": 0,
-                "security": 1
-            }
-        },
-        {
-            "checksum": {
-                "hash": "b2c9629ea1a157770818a3b4ad9da596b9d9e013dfd376d8edb35590446764bb",
-                "type": "sha256"
-            },
-            "downloadType": "archive",
-            "name": "azul_zulu_jdk14.0.1",
-            "packageType": "jdk",
-            "releaseTime": "2020-04-13T22:23:00+00:00",
-            "runtimeOS": "windows-x86",
-            "url": "https://cdn.azul.com/zulu/bin/zulu14.28.21-ca-jdk14.0.1-win_i686.zip",
-            "vendor": "azul",
-            "version": {
-                "major": 14,
-                "minor": 0,
-                "security": 1
-            }
-        },
-        {
-            "checksum": {
-                "hash": "0dd8683a015081cba99421928481e3ca8f0fa4db249988b64f6a2a472e20c656",
-                "type": "sha256"
-            },
-            "downloadType": "archive",
-            "name": "azul_zulu_jdk14.0.0",
-            "packageType": "jdk",
-            "releaseTime": "2020-03-18T02:49:00+00:00",
-            "runtimeOS": "mac-os-x64",
-            "url": "https://cdn.azul.com/zulu/bin/zulu14.27.1-ca-jdk14.0.0-macosx_x64.zip",
-            "vendor": "azul",
-            "version": {
-                "major": 14,
-                "minor": 0,
-                "security": 0
-            }
-        },
-        {
-            "checksum": {
-                "hash": "b83aab88d62d2e98c1abb00c0a0d598547851782b9b2ee6b6cf8bc98caa37502",
-                "type": "sha256"
-            },
-            "downloadType": "archive",
-            "name": "azul_zulu_jdk14.0.0",
-            "packageType": "jdk",
-            "releaseTime": "2020-03-18T01:13:00+00:00",
-            "runtimeOS": "windows-x64",
-            "url": "https://cdn.azul.com/zulu/bin/zulu14.27.1-ca-jdk14.0.0-win_x64.zip",
-            "vendor": "azul",
-            "version": {
-                "major": 14,
-                "minor": 0,
-                "security": 0
-            }
-        },
-        {
-            "checksum": {
-                "hash": "3de1e9276140350ec2557aaa3bedb3837d370b33e62af6218986b95ce8cace56",
-                "type": "sha256"
-            },
-            "downloadType": "archive",
-            "name": "azul_zulu_jdk14.0.0",
-            "packageType": "jdk",
-            "releaseTime": "2020-03-18T01:13:00+00:00",
-            "runtimeOS": "windows-x86",
-            "url": "https://cdn.azul.com/zulu/bin/zulu14.27.1-ca-jdk14.0.0-win_i686.zip",
-            "vendor": "azul",
-            "version": {
-                "major": 14,
-                "minor": 0,
-                "security": 0
             }
         }
     ],
