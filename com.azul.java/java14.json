@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "name": "Java 14",
-    "releaseTime": "2020-07-11T02:03:53+00:00",
+    "releaseTime": "2020-05-06T10:02:00+00:00",
     "runtimes": [
         {
             "checksum": {
