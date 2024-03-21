@@ -3,7 +3,7 @@
     "packages": [
         {
             "name": "Java Runtimes",
-            "sha256": "cdf23face7b0e4b79d1de31ee6fb3b22319cfa8e1222f16cac97e6f8cec2ce8a",
+            "sha256": "d31bef46fedb69e8bf8e9bc6caa57fe0b9fdac8284498bce3e41a5e5aa7032f7",
             "uid": "com.azul.java"
         },
         {
@@ -13,7 +13,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "868f8dee599f54c47492ed59491692b6acce3be18648799810eb78f0d7b42014",
+            "sha256": "e9daddd74b2605c35efc90e55a103906ff93588b5d3af5dfa83865158284f39f",
             "uid": "net.adoptium.java"
         },
         {

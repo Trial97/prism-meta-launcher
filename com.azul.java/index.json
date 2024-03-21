@@ -86,12 +86,6 @@
             "releaseTime": "2019-04-15T08:45:00+00:00",
             "sha256": "161784910b9129bf22b871671c31290469b836875613667343c24eae9262d446",
             "version": "java8"
-        },
-        {
-            "recommended": false,
-            "releaseTime": "2018-07-26T11:15:00+00:00",
-            "sha256": "961bf12e4286407a6b25c0d480c01213a90a9bf3b89c575452d6042035a88d19",
-            "version": "java10"
         }
     ]
 }

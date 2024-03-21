@@ -47,12 +47,6 @@
         },
         {
             "recommended": false,
-            "releaseTime": "2021-07-30T17:08:13+00:00",
-            "sha256": "75e30a31422e3e53114f8858fea0d3eac3a959b1cd3bf0649fc82b7c0a7947be",
-            "version": "java16"
-        },
-        {
-            "recommended": false,
             "releaseTime": "2021-07-29T19:22:38+00:00",
             "sha256": "7cf283bffd0073e14baa22caad65e950331f9d2f3f16591fe933934022f39f2e",
             "version": "java8"
