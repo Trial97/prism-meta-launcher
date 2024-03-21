@@ -65,33 +65,33 @@
         },
         {
             "recommended": false,
+            "releaseTime": "2019-04-15T08:45:03+00:00",
+            "sha256": "43ae6334f9a411a5937dac653b761ad0fe95a5fd78bf33a9f27cf3725e8e1ba6",
+            "version": "java12"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2019-04-15T08:45:02+00:00",
+            "sha256": "51a67aa4c2148fe9b8d92883482c69f2577012dd2235e346198fefd58a5add84",
+            "version": "java11"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2019-04-15T08:45:01+00:00",
+            "sha256": "73e7741ad7f46bb6e2846c2a9d53b82c0754d8431fb3c868ff7942af6356a2c8",
+            "version": "java9"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2019-04-15T08:45:00+00:00",
             "sha256": "161784910b9129bf22b871671c31290469b836875613667343c24eae9262d446",
             "version": "java8"
         },
         {
             "recommended": false,
-            "releaseTime": "2019-04-14T05:39:00+00:00",
-            "sha256": "9a06f648f5e57af140036b2111caf822614db0e0a018349b5ecbd880665fb4a9",
-            "version": "java11"
-        },
-        {
-            "recommended": false,
-            "releaseTime": "2019-03-29T22:24:00+00:00",
-            "sha256": "42f20aa24f5c16d038f141a70d37f2d0d45e1e4a3c4e5e842ec8d4536408682b",
-            "version": "java12"
-        },
-        {
-            "recommended": false,
             "releaseTime": "2018-07-26T11:15:00+00:00",
             "sha256": "961bf12e4286407a6b25c0d480c01213a90a9bf3b89c575452d6042035a88d19",
             "version": "java10"
-        },
-        {
-            "recommended": false,
-            "releaseTime": "2017-09-12T14:16:00+00:00",
-            "sha256": "a392bbfdfe8771556150205687e7c0134f9acfc859e77daf8d2eeb6592dbc3a4",
-            "version": "java9"
         }
     ]
 }
