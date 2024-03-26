@@ -1,6 +1,7 @@
 {
     "+traits": [
         "XR:Initial",
+        "quickPlay",
         "FirstThreadOnMacOS"
     ],
     "assetIndex": {
