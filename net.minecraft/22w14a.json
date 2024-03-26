@@ -1,7 +1,9 @@
 {
     "+traits": [
         "XR:Initial",
-        "FirstThreadOnMacOS"
+        "FirstThreadOnMacOS",
+        "feature:is_demo_user",
+        "feature:has_custom_resolution"
     ],
     "assetIndex": {
         "id": "1.19",
@@ -13,7 +15,6 @@
     "compatibleJavaMajors": [
         17
     ],
-    "compatibleJavaName": "java-runtime-beta",
     "formatVersion": 1,
     "libraries": [
         {

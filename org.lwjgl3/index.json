@@ -10,8 +10,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2024-01-24T13:42:45+00:00",
-            "sha256": "049011fd97b96aec155726d3904d4e7897425aedbc5c8d3b3b6e6f8b7222004d",
+            "releaseTime": "2024-02-14T12:51:01+00:00",
+            "sha256": "0c94c0437877eaa50deb5edb04c7c1f613384a96d9ba6700da2b3bbf7142ec65",
             "type": "release",
             "version": "3.3.2",
             "volatile": true
@@ -23,8 +23,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2022-11-29T14:28:08+00:00",
-            "sha256": "6bd8760d135a5a8667c9d05f31999a67cc25793c21ab201fdb9e6197e70905bc",
+            "releaseTime": "2023-03-14T12:56:18+00:00",
+            "sha256": "88af8cda8be521e3ab6042b1debac326caae6f872917975a8e441476b776dedb",
             "type": "release",
             "version": "3.3.1",
             "volatile": true
@@ -36,8 +36,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2019-06-19T11:44:29+00:00",
-            "sha256": "db433091dbf45b51bdf663a9f2607cfffc7405bb5a83a4dd3189140820e0a450",
+            "releaseTime": "2019-07-10T12:53:29+00:00",
+            "sha256": "284b8d164c889b16c82c34dd541ef4e88759c9b5f74d381c9482b1b48b3e6e42",
             "type": "release",
             "version": "3.2.2",
             "volatile": true
@@ -49,8 +49,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2019-03-27T15:15:31+00:00",
-            "sha256": "837f995434764dcd1c53769c89f676173c0c4e63d9f8011e0bdf5a53b1ff7383",
+            "releaseTime": "2019-05-13T11:10:12+00:00",
+            "sha256": "ccb0b07af7228563bcfa8ec79c028a5dbe7e75c2f469d31cdaa177653204a0d5",
             "type": "release",
             "version": "3.2.1",
             "volatile": true
@@ -62,8 +62,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2018-08-22T14:03:42+00:00",
-            "sha256": "0944925c9b8e80959ca6d27c22ec8f66926f62235bd19a097f5ca5a53d892878",
+            "releaseTime": "2018-07-10T14:21:42+00:00",
+            "sha256": "6d8adc394cddb31e810592616a630d28e8044d44247578da04eb2c3494608f48",
             "type": "release",
             "version": "3.1.6",
             "volatile": true
@@ -75,8 +75,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2018-06-21T12:57:11+00:00",
-            "sha256": "771121d4577c2b31f60a7cb947c93c1101504aaceca9cfa2e62f8969eecd39bd",
+            "releaseTime": "2017-11-27T15:36:33+00:00",
+            "sha256": "7a6e015469d3b7db7e5365bf5789e461e9a605717a9777a6146405710cdf024a",
             "type": "release",
             "version": "3.1.2",
             "volatile": true

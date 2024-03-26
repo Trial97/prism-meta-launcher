@@ -1,19 +1,25 @@
 {
     "+traits": [
         "XR:Initial",
-        "FirstThreadOnMacOS"
+        "quickPlay",
+        "FirstThreadOnMacOS",
+        "feature:is_demo_user",
+        "feature:has_custom_resolution",
+        "feature:has_quick_plays_support",
+        "feature:is_quick_play_singleplayer",
+        "feature:is_quick_play_multiplayer",
+        "feature:is_quick_play_realms"
     ],
     "assetIndex": {
         "id": "6",
-        "sha1": "6d88dfe3a3aae062723d4cdb4b0ccf7175c0e778",
+        "sha1": "9cf7137ae2659ef69d1826c21eff68a87b0da832",
         "size": 411581,
-        "totalSize": 621660224,
-        "url": "https://piston-meta.mojang.com/v1/packages/6d88dfe3a3aae062723d4cdb4b0ccf7175c0e778/6.json"
+        "totalSize": 622520805,
+        "url": "https://piston-meta.mojang.com/v1/packages/9cf7137ae2659ef69d1826c21eff68a87b0da832/6.json"
     },
     "compatibleJavaMajors": [
         17
     ],
-    "compatibleJavaName": "java-runtime-gamma",
     "formatVersion": 1,
     "libraries": [
         {

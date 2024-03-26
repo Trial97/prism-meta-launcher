@@ -1,19 +1,20 @@
 {
     "+traits": [
         "XR:Initial",
-        "FirstThreadOnMacOS"
+        "FirstThreadOnMacOS",
+        "feature:is_demo_user",
+        "feature:has_custom_resolution"
     ],
     "assetIndex": {
         "id": "3",
-        "sha1": "7fdfa7ecee74c932187962f69b31928c155306a4",
+        "sha1": "b1b144939265a3b45e941210d523bf743c920b43",
         "size": 410193,
-        "totalSize": 564724664,
-        "url": "https://piston-meta.mojang.com/v1/packages/7fdfa7ecee74c932187962f69b31928c155306a4/3.json"
+        "totalSize": 565585245,
+        "url": "https://piston-meta.mojang.com/v1/packages/b1b144939265a3b45e941210d523bf743c920b43/3.json"
     },
     "compatibleJavaMajors": [
         17
     ],
-    "compatibleJavaName": "java-runtime-gamma",
     "formatVersion": 1,
     "libraries": [
         {

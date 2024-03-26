@@ -12,7 +12,6 @@
     "compatibleJavaMajors": [
         8
     ],
-    "compatibleJavaName": "jre-legacy",
     "formatVersion": 1,
     "mainClass": "com.mojang.rubydung.RubyDung",
     "mainJar": {
