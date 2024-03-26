@@ -2,19 +2,9 @@
     "formatVersion": 1,
     "packages": [
         {
-            "name": "Java Runtimes",
-            "sha256": "d31bef46fedb69e8bf8e9bc6caa57fe0b9fdac8284498bce3e41a5e5aa7032f7",
-            "uid": "com.azul.java"
-        },
-        {
             "name": "LiteLoader",
             "sha256": "08d3f0e3e447d16d0ab25fcd483674de41a74b117d49d27e5f14fdeea25c8811",
             "uid": "com.mumfrey.liteloader"
-        },
-        {
-            "name": "Java Runtimes",
-            "sha256": "e9daddd74b2605c35efc90e55a103906ff93588b5d3af5dfa83865158284f39f",
-            "uid": "net.adoptium.java"
         },
         {
             "name": "Fabric Loader",
@@ -32,18 +22,13 @@
             "uid": "net.minecraft"
         },
         {
-            "name": "Java Runtimes",
-            "sha256": "41680aee183f1ab20f0ca1222f744abb34ab3a3482accd894c3b8a50bfad68b1",
-            "uid": "net.minecraft.java"
-        },
-        {
             "name": "Forge",
             "sha256": "87d6839808e83209666460d524845e4303dc5e6f042b84f90482f93ffbbfede9",
             "uid": "net.minecraftforge"
         },
         {
             "name": "NeoForge",
-            "sha256": "a38ef803224ce2c4ec737d72b948f2f96a4ec49646dc5a80046ce304a9c06f3b",
+            "sha256": "93486ade170dc0a1b9f165f77b0d4dac2ef09f9d43e0ffd8aa8cc04176fbfa82",
             "uid": "net.neoforged"
         },
         {
