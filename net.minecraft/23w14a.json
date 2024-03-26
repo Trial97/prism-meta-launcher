@@ -1,7 +1,13 @@
 {
     "+traits": [
         "XR:Initial",
-        "FirstThreadOnMacOS"
+        "FirstThreadOnMacOS",
+        "feature:is_demo_user",
+        "feature:has_custom_resolution",
+        "feature:has_quick_plays_support",
+        "feature:is_quick_play_singleplayer",
+        "feature:is_quick_play_multiplayer",
+        "feature:is_quick_play_realms"
     ],
     "assetIndex": {
         "id": "4",

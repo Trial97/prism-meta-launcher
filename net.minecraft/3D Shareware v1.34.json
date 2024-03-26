@@ -1,6 +1,8 @@
 {
     "+traits": [
-        "FirstThreadOnMacOS"
+        "FirstThreadOnMacOS",
+        "feature:is_demo_user",
+        "feature:has_custom_resolution"
     ],
     "assetIndex": {
         "id": "1.14-af",
