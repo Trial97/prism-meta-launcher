@@ -1,9 +1,7 @@
 {
     "+traits": [
         "XR:Initial",
-        "FirstThreadOnMacOS",
-        "feature:is_demo_user",
-        "feature:has_custom_resolution"
+        "FirstThreadOnMacOS"
     ],
     "assetIndex": {
         "id": "1.16",
