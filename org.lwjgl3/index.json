@@ -10,8 +10,21 @@
                 }
             ],
             "recommended": false,
+            "releaseTime": "2024-04-10T12:44:25+00:00",
+            "sha256": "df9bc4e3295fa35c3238646c3329d6537e47ef3fd35f0dd8f4b3efcb15e9ca4c",
+            "type": "release",
+            "version": "3.3.3",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
             "releaseTime": "2024-02-14T12:51:01+00:00",
-            "sha256": "0c94c0437877eaa50deb5edb04c7c1f613384a96d9ba6700da2b3bbf7142ec65",
+            "sha256": "b8111e6b6a4d4a93449e36d447bfc4ac29b30902fb4f550999160e53171aae69",
             "type": "release",
             "version": "3.3.2",
             "volatile": true
