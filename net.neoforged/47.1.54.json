@@ -391,8 +391,8 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "e6419b4b3df76a2ac7d84b878d529a04798fd41b",
-                    "size": 5962213,
+                    "sha1": "cb412a8ba1d527be2e5cf7e153969d55d81bce93",
+                    "size": 5978926,
                     "url": "https://maven.neoforged.net/net/neoforged/forge/1.20.1-47.1.54/forge-1.20.1-47.1.54-installer.jar"
                 }
             },
