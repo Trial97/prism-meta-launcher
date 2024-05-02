@@ -10204,8 +10204,8 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "sha256": "e8ca9f96ef11095650a5b917a7da73638439ca2fd7625bfbaceb39a9ed049da6",
-            "type": "old_beta",
+            "sha256": "e598dc96cbe978f7dbbe06dd0cf813e22a607cf4a5046ef14ba9b6941edb3758",
+            "type": "beta",
             "version": "b1.8-pre2"
         },
         {
@@ -10217,8 +10217,8 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "sha256": "62d4957a792b1e54049908a433bb1ae73fb4bc2c62daa2aba6ba716038aa05cc",
-            "type": "old_beta",
+            "sha256": "6e1654edb69be28d3e928f57702a9020973fbd998b7377672b83292d6fb57ec8",
+            "type": "beta",
             "version": "b1.8-pre1-2"
         },
         {
