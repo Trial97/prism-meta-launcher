@@ -125,6 +125,44 @@
                 "type": "sha1"
             },
             "downloadType": "manifest",
+            "name": "java-runtime-alpha",
+            "packageType": "jre",
+            "releaseTime": "2023-09-15T08:27:57+00:00",
+            "runtimeOS": "mac-os-arm64",
+            "url": "https://piston-meta.mojang.com/v1/packages/453682d6317aefaaada5e2a6ad2fe486c3aaa7ab/manifest.json",
+            "vendor": "mojang",
+            "version": {
+                "major": 17,
+                "minor": 0,
+                "name": "17.0.8",
+                "security": 8
+            }
+        },
+        {
+            "checksum": {
+                "hash": "453682d6317aefaaada5e2a6ad2fe486c3aaa7ab",
+                "type": "sha1"
+            },
+            "downloadType": "manifest",
+            "name": "java-runtime-beta",
+            "packageType": "jre",
+            "releaseTime": "2023-09-15T08:27:57+00:00",
+            "runtimeOS": "mac-os-arm64",
+            "url": "https://piston-meta.mojang.com/v1/packages/453682d6317aefaaada5e2a6ad2fe486c3aaa7ab/manifest.json",
+            "vendor": "mojang",
+            "version": {
+                "major": 17,
+                "minor": 0,
+                "name": "17.0.8",
+                "security": 8
+            }
+        },
+        {
+            "checksum": {
+                "hash": "453682d6317aefaaada5e2a6ad2fe486c3aaa7ab",
+                "type": "sha1"
+            },
+            "downloadType": "manifest",
             "name": "java-runtime-gamma",
             "packageType": "jre",
             "releaseTime": "2023-09-15T08:27:57+00:00",
@@ -149,6 +187,44 @@
             "releaseTime": "2023-08-29T12:42:11+00:00",
             "runtimeOS": "mac-os-arm64",
             "url": "https://piston-meta.mojang.com/v1/packages/453682d6317aefaaada5e2a6ad2fe486c3aaa7ab/manifest.json",
+            "vendor": "mojang",
+            "version": {
+                "major": 17,
+                "minor": 0,
+                "name": "17.0.8",
+                "security": 8
+            }
+        },
+        {
+            "checksum": {
+                "hash": "d47cd46e4820a5aac61bc9a08f9374c7cebb341b",
+                "type": "sha1"
+            },
+            "downloadType": "manifest",
+            "name": "java-runtime-alpha",
+            "packageType": "jre",
+            "releaseTime": "2023-09-15T08:27:13+00:00",
+            "runtimeOS": "windows-arm64",
+            "url": "https://piston-meta.mojang.com/v1/packages/d47cd46e4820a5aac61bc9a08f9374c7cebb341b/manifest.json",
+            "vendor": "mojang",
+            "version": {
+                "major": 17,
+                "minor": 0,
+                "name": "17.0.8",
+                "security": 8
+            }
+        },
+        {
+            "checksum": {
+                "hash": "d47cd46e4820a5aac61bc9a08f9374c7cebb341b",
+                "type": "sha1"
+            },
+            "downloadType": "manifest",
+            "name": "java-runtime-beta",
+            "packageType": "jre",
+            "releaseTime": "2023-09-15T08:27:13+00:00",
+            "runtimeOS": "windows-arm64",
+            "url": "https://piston-meta.mojang.com/v1/packages/d47cd46e4820a5aac61bc9a08f9374c7cebb341b/manifest.json",
             "vendor": "mojang",
             "version": {
                 "major": 17,
