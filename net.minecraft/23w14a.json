@@ -1,14 +1,15 @@
 {
     "+traits": [
         "XR:Initial",
-        "FirstThreadOnMacOS"
+        "FirstThreadOnMacOS",
+        "feature:is_quick_play_multiplayer"
     ],
     "assetIndex": {
         "id": "4",
-        "sha1": "020d05bd7ec919aa7a9b70fe9aa14cd635e6f959",
-        "size": 410977,
-        "totalSize": 620115919,
-        "url": "https://piston-meta.mojang.com/v1/packages/020d05bd7ec919aa7a9b70fe9aa14cd635e6f959/4.json"
+        "sha1": "ad4647b3977ad9921931a2acf0259056e3df030a",
+        "size": 411076,
+        "totalSize": 622458227,
+        "url": "https://piston-meta.mojang.com/v1/packages/ad4647b3977ad9921931a2acf0259056e3df030a/4.json"
     },
     "compatibleJavaMajors": [
         17

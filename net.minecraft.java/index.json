@@ -5,8 +5,8 @@
     "versions": [
         {
             "recommended": false,
-            "releaseTime": "2024-02-27T12:19:15+00:00",
-            "sha256": "e14ec216516b8e2042dc4fb657ac6b96ed245b7b89fa0f7f12532e9094b1520b",
+            "releaseTime": "2024-04-23T09:36:44+00:00",
+            "sha256": "f5783fa1e3b9bc9adda311ff23ec1a8f79c9f351b866314584f5c37f8c5d29c0",
             "version": "java21"
         },
         {
