@@ -5,6 +5,54 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2024-07-14T14:25:24+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "1630c8e33b1de4c15b25c45f4b4a2418ec89d7113f142ab16bede7ccd4874f23",
+            "type": "release",
+            "version": "0.26.4-beta.1"
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2024-07-14T03:19:26+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "04e2ddf5e47f2117ee613b1eb08ef77977190710af731d004cb0c3f246b9dedd",
+            "type": "release",
+            "version": "0.26.3"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2024-07-13T22:42:32+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "93f36199542e71c1536f1b42bf6390b239c6eb03a819ec56786f4b69450db574",
+            "type": "release",
+            "version": "0.26.2"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2024-07-13T21:19:24+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "3385329fe83f043d977897232cb9b25b2a30f412ca2ab714cd0dca40956d17de",
+            "type": "release",
+            "version": "0.26.1"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2024-06-18T18:12:52+00:00",
             "requires": [
                 {
@@ -16,7 +64,7 @@
             "version": "0.26.1-beta.1"
         },
         {
-            "recommended": true,
+            "recommended": false,
             "releaseTime": "2024-06-02T23:06:52+00:00",
             "requires": [
                 {

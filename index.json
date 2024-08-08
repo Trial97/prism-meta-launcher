@@ -3,7 +3,7 @@
     "packages": [
         {
             "name": "Java Runtimes",
-            "sha256": "bc5cc7893b7c42bcbee5e89c720025e4d6b6e3b9d53b4f8bbb034120a0e5dee4",
+            "sha256": "a8b320e4df9b5d0a9ceadc0cdb9337e2c864acb1040a148f1e4a862ae1b49898",
             "uid": "com.azul.java"
         },
         {
@@ -13,32 +13,32 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "10313bfccb3ca5dfd04e92120c26f2ef863cc988bd39a0d5f35383387c97df3d",
+            "sha256": "ff23a34f2334e8515626eb74b87a76ee5383d26fffc42635ae5cd1a6223db555",
             "uid": "net.adoptium.java"
         },
         {
             "name": "Fabric Loader",
-            "sha256": "5fba46f0e6ad195c631ce062ed9e269190e667b9c2c1d197a95fe3a7f094b70a",
+            "sha256": "a5f514511ab53bcd3e3c163cbb77f28fe83f21dc7d5f1a5aa3278d835dc9c08b",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "0322e65452aa6f82d14ff18762f8e80bdf8baf73ace099d96ad150819b3d60b2",
+            "sha256": "5c452633d2682e8f3648a4fd1bc5bfef460da58b698af85d0c225130a13e49c2",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "87a8513cfa0051aa0365aadb241ef3c3e43c9e27780033ff4019d79c398fc9d6",
+            "sha256": "dd76c89b9d3829c31156bffa55d55c81d9cdd447b2db3ce95720a9fc3dabae22",
             "uid": "net.minecraft"
         },
         {
             "name": "Java Runtimes",
-            "sha256": "ad85c8c12d4be0c271df2ab8dbf9f5c7095ce247ed0e59a2a461bbe83a02a145",
+            "sha256": "bef3bc77f267a34b8298abbeca23b7db527dae560598a2be6d072225ec4e6895",
             "uid": "net.minecraft.java"
         },
         {
             "name": "Forge",
-            "sha256": "dd3635e5dfab350d8724595f563f191b9d20b0beefc60fdd9e36ee9fa36a1e19",
+            "sha256": "3e9811a3e7c48ef97ffbddd5989ca842980d724002764acacc34a2678e4033ad",
             "uid": "net.minecraftforge"
         },
         {
@@ -58,7 +58,7 @@
         },
         {
             "name": "Quilt Loader",
-            "sha256": "59483db8a39bf2f1573af65ef231dd11273e8e44e574fdb87ae5e62c90cb458c",
+            "sha256": "2f0adb788b264b713091d6c9e6f22fae05db9fbceb54a779932d7fa1b7bb2cd9",
             "uid": "org.quiltmc.quilt-loader"
         }
     ]
